@@ -1,0 +1,22 @@
+body {
+    background-color: bisque;
+    font-family: "Verdana";
+}
+
+h1 { 
+    font-family: "Impact";
+    font-size: 48px;
+    color: crimson;
+}
+a {
+    font-size: 36px;
+    color: green;
+}
+a:hover {
+    font-weight: bold;
+    color: orange;
+}
+a:visited {
+    
+    color: fuchsia;
+}
